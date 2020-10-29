@@ -1,0 +1,1 @@
+This the first first attempt to venture into web development. Its hard but am hopeful i will catch up and be a programmer!
